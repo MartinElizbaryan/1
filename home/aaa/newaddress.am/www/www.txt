@@ -1,0 +1,93 @@
+                                                                                    JavaScript
+
+ABC,abc           - javscript,
+
+alert             - javscript,
+
+attr              - javscript,
+
+append            - lesson006,lesson007,
+
+appendTo          - lesson007,
+
+checked           - input3php,
+
+confirm           - javscript,
+
+clearInterval     - lesson001,lesson002,
+
+clone             - lesson006,
+
+css               - lesson005,lesson006,
+
+Date              - javscript,
+
+empty             - lesson007,
+
+getElementById    - lesson001,
+
+insertAfter       - lesson007,
+
+insertBefore      - lesson007,
+
+Math              - javscript,
+
+not               - javscript
+
+onclic            - javscript,
+
+onload            - lesson001,
+
+onmouseover       - lesson003,
+
+promt             - javscript,
+
+remove            - lesson007,
+
+setTimeout        - lesson001,
+
+setInterval       - lesson002,
+
+show              - input3php,
+
+trim              - javscript,
+
+wrap              - lesson007,
+
+doing with colors - lesson004, 
+
+http://bootsnipp.com/?page=3      ====    boostrapi lav havaqacu
+
+
+
+
+
+
+
+
+
+
+
+
+
+				$(event.target).animate({
+					width: $(event.target).width()*6,
+					height: $(event.target).height()*6,
+				},3000);
+				
+				    <script type="text/javascript">
+		document.read(function(){
+			$("#load").bind("click",function(){
+				$.ajax({
+					url:"inch vor mi ej",
+					type:"POST",
+					data:({name:"Admin",number:22}),
+				});
+			});
+		});
+	</script>
+	
+	
+	
+	<p id="load" style="cursor:pointer"></p>
+<div id="inform"></div>

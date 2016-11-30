@@ -1,0 +1,10 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: test@test.ru
+Subject: Personal data
+X-PHP-Originating-Script: 0:form.php
+
+
+From:martin.elizbaryan@gmail.com
+Reply-to:martin.elizbaryan@gmail.com
+Content-type:text/plain;charset=utf-8
+

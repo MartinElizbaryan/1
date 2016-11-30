@@ -1,0 +1,9 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: martin.elizbaryan@gmail.com
+Subject: =?utf-8?B?dGVzdA==?=
+X-PHP-Originating-Script: 0:test.php
+From: unknown
+Reply-to: unknown
+Content-type:text/plain;charset=utf-8
+
+it is an example

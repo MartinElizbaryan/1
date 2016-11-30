@@ -1,0 +1,17 @@
+[Wed Nov 30 13:16:15 2016] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Nov 30 13:16:15 2016] [warn] pid file M:/usr/local/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 30 13:16:15 2016] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Nov 30 13:16:16 2016] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.3.13 configured -- resuming normal operations
+[Wed Nov 30 13:16:16 2016] [notice] Server built: Apr 20 2012 18:42:30
+[Wed Nov 30 13:16:16 2016] [notice] Parent: Created child process 6760
+[Wed Nov 30 13:16:16 2016] [notice] Disabled use of AcceptEx() WinSock2 API
+[Wed Nov 30 13:16:16 2016] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Nov 30 13:16:16 2016] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Child process is running
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Acquired the start mutex.
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Starting 25 worker threads.
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Listening on port 443.
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Listening on port 8648.
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Listening on port 443.
+[Wed Nov 30 13:16:16 2016] [notice] Child 6760: Listening on port 80.
+[Wed Nov 30 13:37:53 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.

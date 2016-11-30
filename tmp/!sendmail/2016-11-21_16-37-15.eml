@@ -1,0 +1,7 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: ef
+Subject: ef
+X-PHP-Originating-Script: 0:test.php
+fw
+
+ef

@@ -1,0 +1,7 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: martin.elizbaryan@gamil.com
+Subject: test
+X-PHP-Originating-Script: 0:index.php
+
+
+Its a massage

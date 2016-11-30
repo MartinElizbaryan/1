@@ -1,0 +1,9 @@
+X-Sendmail-Cmdline: sendmail.pl -t -i
+To: Mrdo
+Subject: =?utf-8?B?Q1Y=?=
+X-PHP-Originating-Script: 0:input.php
+From: Arman
+Reply-to: Arman
+Content-type:text/plain;charset=utf-8
+
+I am Arman
